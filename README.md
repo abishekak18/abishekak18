@@ -7,7 +7,7 @@ Student Pursuing B.Tech in Indian Institute Of Information Technology,Bhagalpur.
 
   ### Competitive Programming
 - **CodeChef**: Achieved a 3-star rating.
-- **Codeforces**: Solved over 300 problems.
+- **Codeforces**: Pupil(1321) Solved over 500+ problems.
   
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eabishek18/)
