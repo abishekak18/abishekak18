@@ -6,8 +6,8 @@ Student Pursuing B.Tech in Indian Institute Of Information Technology,Bhagalpur.
 - 👯 I’m looking to collaborate with developer
 
   ### Competitive Programming
-- **CodeChef**: Achieved a 3-star rating.
-- **Codeforces**: Pupil(1321) Solved over 500+ problems.
+- **LeetCode**: Solved 900+ Problems | Knight | 1966 (Rating)
+- **Codeforces**: Solved 900+ Problems | Specialist | 1410 (Rating)
   
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eabishek18/)
